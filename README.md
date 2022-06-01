@@ -1,2 +1,6 @@
 # Covid-Sentimental-Analysis-Using-Twitter-API-
-The project aims to predict the depression level about the sentiments of Covid-19 Tweets. 
+The project aims to predict the depression level about the sentiments of Covid-19 Tweets. The tweets needs to be pulled from Twitter API with a proper information like location of the tweet, the date at which the tweet has been updated in Twitter, the user id and the text data of the tweet. We understand due to Covid-19 effect many people has lost their jobs. Some medical facilities have examined many deaths related to suicides. College students academic success has gone down due to the fluctuation of classes from offline to online and vice-versa. 
+
+Now my task is to understand what is the depression level and sentimental score of the people at the starting phase of Covid-19 i.e Wave 1. Wave 1 has a strong effect due to the level of anxiety , depressive moods, lack of respect and many others. Now this factors will create an altogether a different impact in Wave 2. We need to understand the change of the sentiments through graph analysis over the time or month over month. 
+
+Also I understand the trends of positive, negative and neutral tweets across state wise. We know Maharashtra is the most affected state during the covid and what are the sentiments of the people during the lockdown. Now these sentiments of people will help me to understand how we can win against Coronavirus. 
